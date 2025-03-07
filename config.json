@@ -1,0 +1,7 @@
+{
+    "botToken": "Bottoken",
+    "clientId": "BotClientId",
+    "guildId": "ServerId",
+    "warnChannel": "WarnChannelId"
+  }
+  
